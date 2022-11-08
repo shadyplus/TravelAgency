@@ -1,0 +1,70 @@
+.card{
+    background: rgba(240, 240, 240, 0.45);
+    border-radius: 30px;
+    border: none;
+}
+.price{
+    display: flex;
+    font: 14px;
+}
+.price h5{
+    font-size: 15px;
+    color:#8F8F8F;
+}
+.location{
+    color:#42A8C3;
+    font-size: 20px;
+}
+
+.services a{
+    background-color:#42A8C3;
+    border-radius: 13px;
+    border: none;
+    padding: 8px 25px;
+}
+.services a:hover{
+    background-color:#42A8C3 ;
+}
+#dollar {
+    color:#42A8C3 ;
+    font-size: 18px;
+    font-weight: 700;
+}
+.cardh5{
+    font-weight: 700;
+font-size: 20px;
+color: #333333;
+}
+.cardsp{
+    color: #636363;
+    font-size: 12px;
+}
+#cardimg{
+    border-radius: 30px;
+}
+h1 {
+    color: #333333;
+    font-weight: 700;
+}
+#activpar{
+    color: #333333;
+}
+#generalbtn{
+    background-color:orange ;
+    padding: 10px 18px 10px 18px ;
+    border-radius: 10px;
+    text-decoration: none;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    margin: auto;
+    margin-top: 50px ;
+}
+
+@media only screen and (min-width: 1130px) {
+    #carouselExampleControls {
+        margin: auto;
+      width: 60%;
+      
+    }}
