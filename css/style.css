@@ -69,7 +69,7 @@ background-position: center ;
     align-items: center;
     display: flex;
     font-family: 'Poppins', sans-serif;
-    background:url(/img/landing_photo.jpg)  no-repeat ;
+    background:url(../img/landing_photo.jpg)  no-repeat ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
